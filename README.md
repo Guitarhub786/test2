@@ -26,3 +26,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Guitarhub786&count_private=true&show_icons=true&theme=merko">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Guitarhub786&layout=compact&show_icons=true&theme=merko">
 </p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Guitarhub786&count_private=true&show_icons=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Guitarhub786&layout=compact&show_icons=true&theme=tokyonight">
+</p>
