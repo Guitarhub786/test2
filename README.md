@@ -40,6 +40,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guitarhub786&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guitarhub786" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guitarhub786&label=Profile%20views&color=0e75b6&style=flat" alt="guitarhub786" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guitarhub786&show_icons=true&locale=en&theme=tokyonight" alt="guitarhub786" /></p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Guitarhub786&count_private=true&show_icons=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Guitarhub786&layout=compact&show_icons=true&theme=tokyonight">
+</p>
