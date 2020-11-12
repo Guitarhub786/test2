@@ -18,8 +18,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guitarhub786&show_icons=true" alt="guitarhub786" /></p>
 
 <p align = "center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guitarhub786&theme=tokyonight&show_icons=true" />
-  <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitarhub786&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guitarhub786&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitarhub786&theme=tokyonight&show_icons=true" />
 </p>
 
 <p align = "center">
